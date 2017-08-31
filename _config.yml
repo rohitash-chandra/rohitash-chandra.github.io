@@ -1,9 +1,4 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+ 
 
 # Site Settings
 locale                   : "en-US"
@@ -55,7 +50,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &rohitashchandra
+  username               :rohitashchandra
 facebook:
   username               :
   app_id                 :
@@ -92,7 +87,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "rohitash-chandra"
   google_plus      :
   keybase          :
   instagram        :
@@ -104,7 +99,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "rohitashchandra"
   vine             :
   weibo            :
   xing             :
