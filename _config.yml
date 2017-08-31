@@ -2,7 +2,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rohitash Chandra - Academic Profile"
+title                    : "Research Profile"
 title_separator          : "-"
 name                     : &name "Rohitash Chandra"
 description              : &description "Research in Machine Learning and Optimisation"
@@ -77,22 +77,22 @@ author:
   avatar           : "profile.png"
   bio              : "Chancellor's Fellow at the University of Sydney"
   location         : "Sydney"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "Centre for Translational Data Science, The University of Sydney"
+  googlescholar    : "https://scholar.google.com.au/citations?user=pVPvRLoAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         :"https://www.facebook.com/beingathome2012/"
   foursquare       :
   github           : "rohitash-chandra"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/rohitash-chandra-6628035/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
