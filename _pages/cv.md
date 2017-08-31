@@ -11,30 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Computer Science and Engineering Technology, University of the South Pacific, April 2006
+* M.S. in Computer Science (Artificial Intelligence), University of Fiji, August 2008
+* Ph.D in Computer Science (Artificial Intelligence), Victoria University of Wellington, May 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2017 to present: Chancellor's Fellow
+  * Centre for Translational Data Science, The University of Sydney
+  * Duties included: Research in machine learning, deep learning, Bayseian methods, Geocoastal and Solid Earth models.  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+ 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming experience in C++, Python, Matlab, Java, PhP  
+* Linux Server Administration
 
 Publications
 ======
@@ -56,4 +48,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Chairman, Software Foundation (Fiji)
