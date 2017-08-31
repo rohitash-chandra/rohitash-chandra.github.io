@@ -75,8 +75,7 @@ analytics:
 author:
   name             : "Rohitash Chandra"
   avatar           : "rohitash_profile.jpg"
-  bio              : "Chancellor's Fellow at the University of Sydney"
-  location         : "Sydney"
+  bio              : "Chancellor's Fellow at the University of Sydney" 
   employer         : "The University of Sydney"
   googlescholar    : "https://scholar.google.com.au/citations?user=pVPvRLoAAAAJ&hl=en"
   email            : "rohitash.chandra (at) sydney.edu.au"
@@ -93,7 +92,7 @@ author:
   instagram        :
   lastfm           :
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=35106707300"
-  linkedin         : "in/rohitash-chandra-6628035/"
+  linkedin         : "rohitash-chandra-6628035/"
   orcid            : "http://orcid.org/0000-0001-6353-1464"
   quora            : "https://www.quora.com/profile/Rohitash-Chandra"
   pinterest        :
