@@ -21,31 +21,17 @@ Work experience
   * Centre for Translational Data Science, The University of Sydney
   * Duties included: Research in machine learning, deep learning, Bayseian methods, Geocoastal and Solid Earth models.  
 
- 
-  
-Skills
+Technical Skills
 ======
 * Programming experience in C++, Python, Matlab, Java, PhP  
 * Linux Server Administration
 
-Publications
+Leadership and Service
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Chairman, Software Foundation (Fiji): softwarefoundationfiji.org
+* Research Director, Artificial Intelligence and Cybernetics Research Group, (2014 - February 2017): aicrg.softwarefoundationfiji.org
+* Advisor, e-Learning Project, Vunimono High School, Nausori, Fiji, (2014- 2015): https://www.facebook.com/vunimonohigh
+
+Literature (Editorship and Publishing)
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Chairman, Software Foundation (Fiji)
+* Namaste Fiji: Anthology of Poems: https://www.barnesandnoble.com/w/namaste-fiji-rohitash-chandra/1113661838?type=eBook
