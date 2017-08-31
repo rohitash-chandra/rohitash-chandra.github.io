@@ -1,11 +1,11 @@
 ---
-layout: archive	
- -title: "Research interests"		
- -excerpt: "About me"		
- -author_profile: true		
- -redirect_from: 		
- -  - /about/		
- -  - /about.html		
+permalink: /
+title: "academicpages "
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
  
 
