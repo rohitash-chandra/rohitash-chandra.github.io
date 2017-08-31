@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Computer Science and Engineering Technology, University of the South Pacific, April 2006
 * M.S. in Computer Science (Artificial Intelligence), University of Fiji, August 2008
-* Ph.D in Computer Science (Artificial Intelligence), Victoria University of Wellington, May 2018
+* Ph.D in Computer Science (Artificial Intelligence), Victoria University of Wellington, May 2012
 
 Work experience
 ======
