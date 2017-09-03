@@ -8,12 +8,8 @@ author_profile: true
 ## Research Profiles
   1. [DBLP Profile](http://dblp.uni-trier.de/pers/hd/c/Chandra:Rohitash)
   2. [Google Scholar Profile](https://scholar.google.com.au/citations?user=pVPvRLoAAAAJ&hl=en)
- 
- See my Scopus profile:
- 
- See my Google Scholar profile:
- 
- See my ResearchGate profile
+  3. [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=35106707300)
+  4. [ResearchGate Profile](https://www.researchgate.net/profile/Rohitash_Chandra) 
  
  
 ## Ordered List (Nested)
