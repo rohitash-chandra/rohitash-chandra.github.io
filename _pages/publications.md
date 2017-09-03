@@ -6,7 +6,7 @@ author_profile: true
 ---
  
 ## Research Profiles
-  1. [DBLP Profile](http://github.com "Github")
+  1. [DBLP Profile](http://dblp.uni-trier.de/pers/hd/c/Chandra:Rohitash)
   2. [Scopus profile] ( )
  
  See my Scopus profile:
