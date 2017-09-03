@@ -12,3 +12,40 @@ author_profile: true
  See my Google Scholar profile:
  
  See my ResearchGate profile
+ 
+ 
+## Ordered List (Nested)
+
+  1. List item one 
+      1. List item one 
+          1. List item one
+          2. List item two
+          3. List item three
+          4. List item four
+      2. List item two
+      3. List item three
+      4. List item four
+  2. List item two
+  3. List item three
+  4. List item four
+
+## Buttons
+
+Make any link standout more when applying the `.btn` class.
+
+## Notices
+
+**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
+{: .notice}
+
+## HTML Tags
+
+### Address Tag
+
+<address>
+  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
+</address>
+
+### Anchor Tag (aka. Link)
+
+This is an example of a [link](http://github.com "Github").
