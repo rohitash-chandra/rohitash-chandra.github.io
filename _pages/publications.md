@@ -15,12 +15,5 @@ author_profile: true
 ### Publications 
 
 <script src="https://bibbase.org/dblp/Chandra:Rohitash?jsonp=1"></script>
-
-
-  1. 2017
-      1. List item one 
-      2. List item two 
-  2. 2016
-  3. 2015
-  4. 2014
+ 
  
