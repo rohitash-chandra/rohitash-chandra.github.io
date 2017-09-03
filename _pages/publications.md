@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
  
- See my dblp profile: 
+## Research Profiles
+  1. [DBLP Profile](http://github.com "Github")
+  2. [Scopus profile] ( )
  
  See my Scopus profile:
  
@@ -18,10 +20,6 @@ author_profile: true
 
   1. List item one 
       1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
       2. List item two
       3. List item three
       4. List item four
