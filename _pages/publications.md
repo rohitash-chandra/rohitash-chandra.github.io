@@ -7,7 +7,7 @@ author_profile: true
  
 ## Research Profiles
   1. [DBLP Profile](http://dblp.uni-trier.de/pers/hd/c/Chandra:Rohitash)
-  2. [Scopus profile] ( )
+  2. [Google Scholar Profile] (https://scholar.google.com.au/citations?user=pVPvRLoAAAAJ&hl=en)
  
  See my Scopus profile:
  
