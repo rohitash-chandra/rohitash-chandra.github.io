@@ -16,9 +16,7 @@ author_profile: true
 
   1. 2017
       1. List item one 
-      2. List item two
-      3. List item three
-      4. List item four
+      2. List item two 
   2. 2016
   3. 2015
   4. 2014
