@@ -19,7 +19,7 @@ author_profile: true
 #### Papers not indexed by DBLP
 
 ##### 2010
-[ L. Rolland and R. Chandra, “On solving the forward kinematics of the 6- 6 General parallel manipulator with an efficient evolutionary algorithm”, In ROMANSY 18 - Robot Design, Dynamics and Control, Series: CISM Inter- national Centre for Mechanical Sciences, Vol. 524 Springer, Berlin, 2010, pp. 117-124.](https://www.researchgate.net/publication/271680908_The_forward_kinematics_of_the_6-6_parallel_manipulator_using_an_evolutionary_algorithm_based_on_generalized_generation_gap_with_parent-centric_crossover) 
+[ L. Rolland and R. Chandra, “On solving the forward kinematics of the 6- 6 General parallel manipulator with an efficient evolutionary algorithm”, In ROMANSY 18 - Robot Design, Dynamics and Control, Series: CISM Inter- national Centre for Mechanical Sciences, Vol. 524 Springer, Berlin, 2010, pp. 117-124.](https://link.springer.com/chapter/10.1007/978-3-7091-0277-0_13) 
 
 ##### 2009
 
