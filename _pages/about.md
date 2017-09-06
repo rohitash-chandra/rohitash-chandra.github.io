@@ -20,9 +20,6 @@ My research interests are in areas of deep learning, recurrent neural networks, 
  **Solid Earth and geo-coastal (reef) modelling:** The objectives is to gain insights into the flux of carbon by analysing carbonate platform growth and demise through time, and modelling their evolution using lanscape dynamics and reef modelling Python packages (Badlands 2 and Pyreef 3). Bayesian optimisation and machine learning methods will be used in conjunction with landscape and reef models to predict the future evolution of landscape and reef systems around the world and their impact on the carbon cycle. **Collaborators:** Prof. Dietmar Muller, A/Prof. Jody Webster and Dr. Tristan Salles (School of Geosciences, The University of Sydney):
  
  **Computational models of machine consciouness:** Develop computational models of machine consiounesness that simulate aspects such as personality, affection and reasoning. 
- 
- **Research Students**
- 
- TBA
+  
  
 
