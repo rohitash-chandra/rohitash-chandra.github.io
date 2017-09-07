@@ -3,8 +3,7 @@
 layout: archive
 title: "Poetry and Philosophy"
 permalink: /poetry-philosophy/
-author_profile: true
-redirect_from: 
+author_profile: true 
 ---
 
 {% include base_path %}
