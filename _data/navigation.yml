@@ -13,7 +13,7 @@ main:
     url: /portfolio/
         
   - title: "Poetry and Philosophy"
-    url: /year-archive/
+    url: /poetry-philosophy/
     
   - title: "CV"
     url: /cv/
