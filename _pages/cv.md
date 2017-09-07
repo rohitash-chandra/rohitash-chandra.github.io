@@ -31,7 +31,4 @@ Leadership and Service
 * Chairman, Software Foundation (Fiji): softwarefoundationfiji.org
 * Research Director, Artificial Intelligence and Cybernetics Research Group, (2014 - February 2017): aicrg.softwarefoundationfiji.org
 * Advisor, e-Learning Project, Vunimono High School, Nausori, Fiji, (2014- 2015): https://www.facebook.com/vunimonohigh
-
-Literature (Editorship and Publishing)
-======
-* Namaste Fiji: Anthology of Poems: https://www.barnesandnoble.com/w/namaste-fiji-rohitash-chandra/1113661838?type=eBook
+ 
