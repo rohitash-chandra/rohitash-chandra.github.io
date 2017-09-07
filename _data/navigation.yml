@@ -10,11 +10,7 @@ main:
     url: /teaching/    
     
   - title: "Software Portfolio"
-    url: /portfolio/
-        
-  - title: "Poetry and Philosophy"
-    url: /poetry-philosophy/
-    
+    url: /portfolio/ 
     
   - title: "Poetry"
     url: /markdown/
