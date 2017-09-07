@@ -15,6 +15,10 @@ main:
   - title: "Poetry and Philosophy"
     url: /poetry-philosophy/
     
+    
+  - title: "Poetry"
+    url: /markdown/
+    
   - title: "CV"
     url: /cv/
      
