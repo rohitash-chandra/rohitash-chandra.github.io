@@ -1,23 +1,18 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Poetry and Philosophy"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Poetry Collections
+* R. Chandra, The Colourful Silence of your Being (To be published end of 2018)
+* R. Chandra, "Being at Home: Poetry, Philsophy and Expressions," Software Foundation Press, Fiji, 2014.  (download)(buy)
+* R. Chandra, "Hot Pot of Roasted Poems," Blue Fog Journal, Fiji, 2007 (download) (buy)
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png 
+## Editorial 
+* R. Chandra,  Namaste Fiji, Blue Fog Journal  (download)(buy)
+* R. Chandra,  Anthology of Love Poems, Blue Fog Journal  (download)(buy) 
+* R. Chandra,  Iss, Blue Fog Journal  (download)(buy)
