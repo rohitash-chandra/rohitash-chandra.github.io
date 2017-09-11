@@ -13,8 +13,10 @@ author_profile: true
  
  
 ### Publications 
+ 
 
-<script src="https://bibbase.org/dblp/Chandra:Rohitash?jsonp=1"></script>
+
+<script src="https://bibbase.org/show?bib=http%3A%2F%2Fdblp.uni-trier.de%2Fpers%2Ftb0%2Fc%2FChandra%3ARohitash.bib&jsonp=1"></script>
 
 #### Papers not indexed by DBLP
 
