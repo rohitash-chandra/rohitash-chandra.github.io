@@ -13,7 +13,7 @@ redirect_from:
 * R. Chandra, "Hot Pot of Roasted Poems," Blue Fog Journal, Fiji, 2007 (download) [ Purchase from Amazon.com](https://www.amazon.com/Hot-Pot-Roasted-Poems/dp/184728891X/ref=sr_1_2?s=books&ie=UTF8&qid=1505176256&sr=1-2)
 
 ## Editorial 
-* R. Chandra,  Namaste Fiji, Blue Fog Journal  (download)(buy)
+* R. Chandra,  Namaste Fiji, Blue Fog Journal  [Download] (https://github.com/rohitash-chandra/poetry-philosophy/blob/master/namaste_fiji__the_international_anthology_of_poetry.pdf)[Purchase](http://www.lulu.com/shop/rohitash-chandra/namaste-fiji-the-international-anthology-of-poetry/paperback/product-1335721.html)
 * R. Chandra,  Anthology of Love Poems, Blue Fog Journal  (download)(buy) 
 * R. Chandra,  December 2006 Issue, Blue Fog Journal  (download)(buy)
 
