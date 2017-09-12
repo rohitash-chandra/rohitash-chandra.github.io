@@ -14,8 +14,8 @@ redirect_from:
 
 ## Editorial 
 * R. Chandra,  Namaste Fiji, Blue Fog Journal, 2011  [Download](https://github.com/rohitash-chandra/poetry-philosophy/blob/master/namaste_fiji__the_international_anthology_of_poetry.pdf)[Purchase Printed Copy](http://www.lulu.com/shop/rohitash-chandra/namaste-fiji-the-international-anthology-of-poetry/paperback/product-1335721.html)
-* R. Chandra,  Anthology of Love Poems, Blue Fog Journal, 2011  [Download]()  [Purchase Printed Copy]()
-* R. Chandra,  December 2006 Issue, Blue Fog Journal, 2006  [Download]()  [Purchase Printed Copy]()
+* R. Chandra,  Anthology of Contemporary Love Poems, Blue Fog Journal, 2011  [Download](https://github.com/rohitash-chandra/poetry-philosophy/blob/master/Anthology_lovepems.pdf)  [Purchase Printed Copy](http://www.lulu.com/shop/ed-coet-and-rohitash-chandra/an-anthology-of-contemporary-love-poems/ebook/product-17544604.html)
+* R. Chandra,  December 2006 Issue, Blue Fog Journal, 2006    [Purchase Printed Copy](http://www.lulu.com/shop/rohitash-chandra/the-blue-fog-poetry-journal-december-2006-issue/ebook/product-17541406.html)
 
 ## Poems in Collections
 * R. Chandra, "Dusk", A River of Stories, Lift Education, 2015, pp. 134 [Download](https://github.com/rohitash-chandra/poetry-philosophy/blob/master/Dusk_LiftEducation.pdf) [Purchase](http://www.lifteducation.com/portfolio/commonwealth-education-trust/)
