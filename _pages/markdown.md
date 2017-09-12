@@ -18,5 +18,7 @@ redirect_from:
 * R. Chandra,  December 2006 Issue, Blue Fog Journal, 2006  [Download]()  [Purchase Printed Copy]()
 
 ## Poems in Collections
-* R. Chandra, "Dusk", A River of Stories, Lift Education, 2015 [Download](https://github.com/rohitash-chandra/poetry-philosophy/blob/master/Dusk_LiftEducation.pdf) [Purchase](http://www.lifteducation.com/portfolio/commonwealth-education-trust/)
-* R. Chandra, "Summer in Fiji", A River of Stories, Lift Education, 2015 [Download](https://github.com/rohitash-chandra/poetry-philosophy/blob/master/Summer%20in%20Fiji_LiftEducation.pdf) [Purchase](http://www.lifteducation.com/portfolio/commonwealth-education-trust/)
+* R. Chandra, "Dusk", A River of Stories, Lift Education, 2015, pp. 134 [Download](https://github.com/rohitash-chandra/poetry-philosophy/blob/master/Dusk_LiftEducation.pdf) [Purchase](http://www.lifteducation.com/portfolio/commonwealth-education-trust/)
+* R. Chandra, "Summer in Fiji", A River of Stories, Lift Education, 2015, pp. 22-23 [Download](https://github.com/rohitash-chandra/poetry-philosophy/blob/master/Summer%20in%20Fiji_LiftEducation.pdf) [Purchase](http://www.lifteducation.com/portfolio/commonwealth-education-trust/) 
+* R. Chandra, "Summer in Fiji", "Dusk" and "Beware", Writing the Pacific, Ed. Jeff Webb and Kavita Nandan, Pacific Writers Forum, 2007 pp. 21 -23 [Library](http://trove.nla.gov.au/work/33485921?q&versionId=41152513)
+* R. Chandra, "Transformation of Energy", Toe Tree Journal, Temple of Earth Press, 2006, pp. 38 [Download](https://github.com/rohitash-chandra/poetry-philosophy/blob/master/R-Chandra_TransformationofEnergy_ToeTreeJournal2006.pdf)
