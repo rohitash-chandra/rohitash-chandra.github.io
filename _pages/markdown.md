@@ -18,5 +18,5 @@ redirect_from:
 * R. Chandra,  December 2006 Issue, Blue Fog Journal  (download)(buy)
 
 ## Poems in Collections
-* R. Chandra, "Summer in Fiji", Lift Education, 2015
-* R. Chandra, "Dusk", Lift Education, 2015
+* R. Chandra, "Dusk", A River of Stories, Lift Education, 2015 [Download](https://github.com/rohitash-chandra/poetry-philosophy/blob/master/Dusk_LiftEducation.pdf) [Purchase](http://www.lifteducation.com/portfolio/commonwealth-education-trust/)
+* R. Chandra, "Summer in Fiji", A River of Stories, Lift Education, 2015 [Download](https://github.com/rohitash-chandra/poetry-philosophy/blob/master/Summer%20in%20Fiji_LiftEducation.pdf) [Purchase](http://www.lifteducation.com/portfolio/commonwealth-education-trust/)
