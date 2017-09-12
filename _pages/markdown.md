@@ -15,4 +15,8 @@ redirect_from:
 ## Editorial 
 * R. Chandra,  Namaste Fiji, Blue Fog Journal  (download)(buy)
 * R. Chandra,  Anthology of Love Poems, Blue Fog Journal  (download)(buy) 
-* R. Chandra,  Iss, Blue Fog Journal  (download)(buy)
+* R. Chandra,  December 2006 Issue, Blue Fog Journal  (download)(buy)
+
+## Poems in Collections
+* R. Chandra, "Summer in Fiji", Lift Education, 2015
+* R. Chandra, "Dusk", Lift Education, 2015
