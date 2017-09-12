@@ -28,6 +28,9 @@ author_profile: true
 [R. Chandra, R. Knight and C. W. Omlin, "Renosterveld Conservation in South Africa: A Case Study for Handling    Uncertainty in Knowledge Based Neural Networks for Environmental Management”, Journal of Environmental Informatics , Vol 13, No. 1,2009, pp. 56-65](https://github.com/rohitash-chandra/research/blob/master/2009/ChandraOmlin_2009Environment.pdf)
 
 
+&token=68dc7bd3717ef51b29b9eeb7c58907d9
+
+
    
  
  
