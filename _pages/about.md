@@ -21,18 +21,24 @@ My research interests are in areas of deep learning, recurrent neural networks, 
  
  **Computational models of machine consciouness:** Develop computational models of machine consiounesness that simulate aspects such as personality, affection and reasoning. 
  
- *Research Oppurtunities*
+ **Research Opportunities** 
  
- **Summer of Research Internship**
+ **Summer of Research Internship** Students are given 12 weeks of research allowance to work in a selected field in Statistical machine learning and deep learning. Students will be based at the Centre for Translational Data Science, The University of Sydney. More details here:[https://github.com/rohitash-chandra/rohitash-chandra.github.io/blob/master/files/SummerResearch.pdf]
  
  
- **Honours Research Projects**
- 1.
- 2.
+ **Honours Research Projects**  
+ 1.  "Climate precipitation in geological timeframe", Co-supervised  with  Prof. Dietmar Muller, School of Geosciences 
+ 2. "Uncertainty quantification for solid Earth models (Badlands), " Co-supervised with  Prof. Dietmar Muller, School of Geosciences 
  
  **Ph.D Projects**
- 1.
- 2.
+ 
+ 1.  "Uncertainty quantification for continental dynamics using solid Earth models (Badlands)", Co-supervised by Prof. Dietmar Muller, School of Geosciences 
+ 2. "Bayesian deep learning for incomplete information, " Co-supervised with  Prof. Sally Cripps
+ 
+ **Contact Information**
+ 
+ rohitash.chandra (at) sydney.edu.au or c.rohitash (at) gmail.com
+ 
   
  
 
