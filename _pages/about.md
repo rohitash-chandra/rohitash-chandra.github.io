@@ -21,7 +21,7 @@ My research interests are in areas of deep learning, recurrent neural networks, 
  
  **Computational models of machine consciouness:** Develop computational models of machine consiounesness that simulate aspects such as personality, affection and reasoning. 
  
- **Research Oppurtunities**
+ *Research Oppurtunities*
  
  **Summer of Research Internship**
  
