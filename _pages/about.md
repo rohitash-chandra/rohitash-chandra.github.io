@@ -31,18 +31,25 @@ My research interests are in areas of deep learning, recurrent neural networks, 
  1.  "Climate precipitation in geological timeframe", Co-supervised  with  Prof. Dietmar Muller, School of Geosciences 
  2. "Uncertainty quantification for solid Earth models (Badlands), " Co-supervised with  Prof. Dietmar Muller, School of Geosciences 
  
- **Ph.D Projects**
+ **Ph.D Open Projects**
  
  1.  "Dynamic Earth models, landscape dynamics and basin evolution", Co-supervised with Prof. Dietmar Muller, School of Geosciences [More details here:](http://sydney.edu.au/research/opportunities/opportunities/2254)
  2. "Spatio-temporal geodata mining",Co-supervised with Prof. Dietmar Muller, School of Geosciences [More details here:](https://sydney.edu.au/research/opportunities/opportunities/1829)
  3. "Bayesian deep learning for incomplete information, " Co-supervised with  Prof. Sally Cripps, School of Mathematics and Statistics [Mode details here:](https://sydney.edu.au/research/opportunities/opportunities/2301)
  4. “Machine learning for Reef Modelling and Optimisation, “ Co-supervised with Prof. Jody Webster, School of Geosciences [More information:]()
  
+ **Past Research Students and Thesis**
+ 
+ 1. Shelvin Chand, "Multi-Objective Cooperative Neuro-Evolution for Chaotic Time Series
+Prediction", Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, 2014 [Download thesis from USP Library:](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH0101.dir/doc.pdf)
+ 
  **Contact Information**
  
  rohitash.chandra (at) sydney.edu.au or c.rohitash (at) gmail.com
  
  University of Sydney: [Research Supervisor Connect:](https://sydney.edu.au/research/opportunities/supervisors/1886)
+ 
+ 
  
   
  
