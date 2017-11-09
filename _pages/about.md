@@ -41,13 +41,13 @@ My research interests are in areas of deep learning, recurrent neural networks, 
  **Past Research Students and Thesis**
  
  1. Shelvin Chand, "Multi-Objective Cooperative Neuro-Evolution for Chaotic Time Series
-Prediction", Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, 2014 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH0101.dir/doc.pdf)
-2. Shonal Chaudhary, "Mobile Based Face Recognition for Visually Impaired Persons",  University of the South Pacific, Suva, Fiji, August 2015 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH9f3a.dir/doc.pdf)
-3. Kavitesh Bali, " ",  University of the South Pacific, Suva, Fiji, 2014 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH0101.dir/doc.pdf)
-4. Ravneil Nand, " ", University of the South Pacific, Suva, Fiji, 2014 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH0101.dir/doc.pdf)
-5. Shamina Hussein, " ", University of the South Pacific, Suva, Fiji, 2014 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH0101.dir/doc.pdf)
-6. Swaran Ravindra, " ", University of the South Pacific, Suva, Fiji, 2014 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH0101.dir/doc.pdf)
-7. Ratneel Deo, " ", University of the South Pacific, Suva, Fiji, 2014 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH0101.dir/doc.pdf)
+Prediction", Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, August 2014 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH0101.dir/doc.pdf)
+2. Shonal Chaudhary, "Mobile Based Face Recognition for Visually Impaired Persons", Master of Science in Computing Science,  University of the South Pacific, Suva, Fiji, August 2015 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH9f3a.dir/doc.pdf)
+3. Kavitesh Bali, " ", Master of Science in Computing Science,  University of the South Pacific, Suva, Fiji, 2014 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH0101.dir/doc.pdf)
+4. Ravneil Nand, " ", Master of Science in Computing Science,  University of the South Pacific, Suva, Fiji, 2014 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH0101.dir/doc.pdf)
+5. Shamina Hussein, " ", Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, 2014 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH0101.dir/doc.pdf)
+6. Swaran Ravindra, " ",Master of Science in Computing Science,  University of the South Pacific, Suva, Fiji, 2014 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH0101.dir/doc.pdf)
+7. Ratneel Deo, " ", Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, December 2017 [Download thesis from USP Library]( )
  
  **Contact Information**
  
