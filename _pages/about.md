@@ -41,13 +41,19 @@ My research interests are in areas of deep learning, recurrent neural networks, 
  **Past Research Students and Thesis**
  
  1. Shelvin Chand, "Multi-Objective Cooperative Neuro-Evolution for Chaotic Time Series
-Prediction", Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, 2014 [Download thesis from USP Library:](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH0101.dir/doc.pdf)
+Prediction", Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, 2014 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH0101.dir/doc.pdf)
+2. Shonal Chaudhary, "Mobile Based Face Recognition for Visually Impaired Persons",  University of the South Pacific, Suva, Fiji, August 2015 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH9f3a.dir/doc.pdf)
+3. Kavitesh Bali, " ",  University of the South Pacific, Suva, Fiji, 2014 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH0101.dir/doc.pdf)
+4. Ravneil Nand, " ", University of the South Pacific, Suva, Fiji, 2014 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH0101.dir/doc.pdf)
+5. Shamina Hussein, " ", University of the South Pacific, Suva, Fiji, 2014 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH0101.dir/doc.pdf)
+6. Swaran Ravindra, " ", University of the South Pacific, Suva, Fiji, 2014 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH0101.dir/doc.pdf)
+7. Ratneel Deo, " ", University of the South Pacific, Suva, Fiji, 2014 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH0101.dir/doc.pdf)
  
  **Contact Information**
  
  rohitash.chandra (at) sydney.edu.au or c.rohitash (at) gmail.com
  
- University of Sydney: [Research Supervisor Connect:](https://sydney.edu.au/research/opportunities/supervisors/1886)
+ University of Sydney: [Research Supervisor Connect](https://sydney.edu.au/research/opportunities/supervisors/1886)
  
  
  
