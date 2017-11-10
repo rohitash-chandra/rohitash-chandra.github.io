@@ -19,7 +19,7 @@ Dr. Rohitash Chandra is UniSyd Fellow at the Centre for Translational Data Scien
 
  **Solid Earth evolution:**  The solid Earth evolution project considers Bayesian inference and machine learning for  landscape dynamics (BayesLands) **Collaborators:** Prof. Dietmar Muller and Dr. Tristan Salles, School of Geosciences 
 
-**Reef Modelling** Analyse carbonate platform growth and demise through using Bayesian inference and reef modelling  software (BayesReef).  **Collaborators:**  A/Prof. Jody Webster and Dr. Tristan Salles, School of Geosciences 
+**Reef Modelling** Provide uncertainity quantification using  Bayesian inference for  reef modelling  (BayesReef)  **Collaborators:**  A/Prof. Jody Webster and Dr. Tristan Salles, School of Geosciences 
 
  **Computational models of machine consciouness:** Develop computational models of machine consiounesness that simulate aspects such as personality, affection and reasoning. 
   
