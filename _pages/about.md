@@ -9,7 +9,7 @@ redirect_from:
 ---
  
 
-I am UniSyd Fellow at the Centre for Translational Data Science. I am also based at the Discipline of Business Analytics of the  School of Business.  My research interests are in areas of deep learning, recurrent neural networks, neuroevolution, time series analysis, and Bayesian methods. I am developing novel learning algorithms for robust and dynamic decision making given misinformation and uncertainty from the environment. This provides a synergy of deep learning methods with Bayesian inference, multi-task and transfer learning. Applications include climate extremes, solid Earth, and geo-coastal modelling. Moreover, I am interested in developing learning algorithms to simulate aspects of consciousness that include personality and attention.
+Dr. Rohitash Chandra is UniSyd Fellow at the Centre for Translational Data Science and also based at the Discipline of Business Analytics,School of Business.  His research interests are in areas of deep learning, recurrent neural networks, neuroevolution, time series analysis, and Bayesian methods. He is developing novel learning algorithms for robust and dynamic decision making given misinformation and uncertainty from the environment. This provides a synergy of deep learning methods with Bayesian inference, multi-task and transfer learning. Applications include climate extremes, solid Earth evolution, and geo-coastal modelling. Currently, he is involved in projects that use Bayesisan infereence for Solid Earth Evolution and Reef Modelling. He is also interested in developing learning algorithms to simulate aspects of consciousness that include personality and attention.
 
 **Current Research Projects**
 
@@ -17,11 +17,10 @@ I am UniSyd Fellow at the Centre for Translational Data Science. I am also based
 
  **Bayesian deep learning:** Employ synergy of Bayesian inference with Markov Chain Monti Carlo (MCMC) methods to address uncertainty quantification in emerging deep learning methods. **Collaborators:** Prof. Sally Cripps, Centre for Translational Data Science.
 
- **Solid Earth evolution:**  The solid Earth evolution project considers Bayesian optimisation and machine learning for  landscape dynamics using pyBadlands software **Collaborators:** Prof. Dietmar Muller and Dr. Tristan Salles (School of Geosciences, The University of Sydney):
+ **Solid Earth evolution:**  The solid Earth evolution project considers Bayesian inference and machine learning for  landscape dynamics using pyBadlands software **Collaborators:** Prof. Dietmar Muller and Dr. Tristan Salles, School of Geosciences 
 
-**Reef Modelling** The objective  is to analyse carbonate platform growth and demise through time and modelling their evolution  reef modelling  software (pyReef).  **Collaborators:**  A/Prof. Jody Webster and Dr. Tristan Salles (School of Geosciences, The University of Sydney) 
+**Reef Modelling** Analyse carbonate platform growth and demise through using Bayesian inference and reef modelling  software (pyReef).  **Collaborators:**  A/Prof. Jody Webster and Dr. Tristan Salles, School of Geosciences 
 
- 
  **Computational models of machine consciouness:** Develop computational models of machine consiounesness that simulate aspects such as personality, affection and reasoning. 
   
 **Open Research Opportunities**
