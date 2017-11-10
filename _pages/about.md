@@ -13,15 +13,18 @@ I am UniSyd Fellow at the Centre for Translational Data Science. I am also based
 
 **Current Research Projects**
 
- **Neural networks (machine learning) in uncertain environments:** Develop novel learning algo- rithms for robust decision making given misinformation and uncertainty from the environment. This provides a synergy of neural networks with modular, multi-task and transfer learning. Applications in dynamic and uncertain environments that includes time series and pattern classification.
+ **Robust deep learning for uncertain environments:** Develop novel learning algorithms for robust decision making given misinformation and uncertainty from the environment. This provides a synergy of neural networks with modular, multi-task and transfer learning. Applications in dynamic and uncertain environments that includes time series and pattern classification.
 
- **Bayesian deep learning:** Employ synergy of Bayesian inference with Markov Chain Monti Carlo (MCMC) methods to address uncertainty quantification in emerging deep learning methods. **Collaborators:** Prof. Sally Cripps
+ **Bayesian deep learning:** Employ synergy of Bayesian inference with Markov Chain Monti Carlo (MCMC) methods to address uncertainty quantification in emerging deep learning methods. **Collaborators:** Prof. Sally Cripps, Centre for Translational Data Science.
 
- **Solid Earth and geo-coastal (reef) modelling:** The objectives is to gain insights into the flux of carbon by analysing carbonate platform growth and demise through time, and modelling their evolution using lanscape dynamics and reef modelling Python packages (Badlands 2 and Pyreef 3). Bayesian optimisation and machine learning methods will be used in conjunction with landscape and reef models to predict the future evolution of landscape and reef systems around the world and their impact on the carbon cycle. **Collaborators:** Prof. Dietmar Muller, A/Prof. Jody Webster and Dr. Tristan Salles (School of Geosciences, The University of Sydney):
+ **Solid Earth evolution:**  The solid Earth evolution project considers Bayesian optimisation and machine learning for  landscape dynamics using pyBadlands software **Collaborators:** Prof. Dietmar Muller and Dr. Tristan Salles (School of Geosciences, The University of Sydney):
+
+**Reef Modelling** The objective  is to analyse carbonate platform growth and demise through time and modelling their evolution  reef modelling  software (pyReef).  **Collaborators:**  A/Prof. Jody Webster and Dr. Tristan Salles (School of Geosciences, The University of Sydney) 
+
  
  **Computational models of machine consciouness:** Develop computational models of machine consiounesness that simulate aspects such as personality, affection and reasoning. 
   
- ##Open Research Opportunities## 
+**Open Research Opportunities**
  
  **Summer of Research Internship** 
  Students are given 12 weeks of research allowance to work in a selected field in Statistical machine learning and deep learning. Students will be based at the Centre for Translational Data Science, The University of Sydney. [More details here:](https://github.com/rohitash-chandra/rohitash-chandra.github.io/blob/master/files/SummerResearch.pdf)
