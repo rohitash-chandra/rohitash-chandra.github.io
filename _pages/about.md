@@ -9,19 +9,23 @@ redirect_from:
 ---
  
 
-Dr. Rohitash Chandra is UniSyd Fellow at the Centre for Translational Data Science. He is also based at the Discipline of Business Analytics, School of Business.  His research interests are in areas of deep learning, recurrent neural networks, neuroevolution, time series analysis, and Bayesian methods. He is developing novel learning algorithms for robust and dynamic decision making given misinformation and uncertainty from the environment. This provides a synergy of deep learning methods with Bayesian inference, multi-task and transfer learning. Applications include climate extremes, solid Earth evolution, and geo-coastal modelling. Currently, he is involved in projects that use Bayesian inference for solid Earth evolution and reef modelling. He is also interested in developing learning algorithms to simulate aspects of consciousness that include personality and attention.
+Dr. Rohitash Chandra is UniSyd Fellow at the Centre for Translational Data Science. He is also affiliated with the Discipline of Business Analytics, School of Business. His research interests are in areas of deep learning, recurrent neural networks, neuroevolution, time series analysis, and Bayesian methods. He is developing novel learning algorithms for robust and dynamic decision making given misinformation and uncertainty from the environment. This provides a synergy of deep learning methods with Bayesian inference, multi-task and transfer learning. Applications include climate extremes, solid Earth evolution, and geo-coastal modelling. Currently, he is involved in projects that use Bayesian inference for solid Earth evolution and reef modelling. He is also interested in developing learning algorithms to simulate aspects of consciousness that include personality and attention.
 
 **Current Research Projects**
 
- **Robust deep learning for uncertain environments:** Develop novel learning algorithms for robust decision making given misinformation and uncertainty from the environment. This provides a synergy of neural networks with modular, multi-task and transfer learning. Applications in dynamic and uncertain environments that includes time series and pattern classification.
+**Robust deep learning for uncertain environments:** Develop novel learning algorithms for robust decision making given misinformation and uncertainty from the environment. This provides a synergy of neural networks with modular, multi-task and transfer learning. Applications in dynamic and uncertain environments includes time series and pattern classification.
 
- **Bayesian deep learning:** Employ synergy of Bayesian inference with Markov Chain Monti Carlo (MCMC) methods to address uncertainty quantification in emerging deep learning methods. **Collaborators:** Prof. Sally Cripps, Centre for Translational Data Science.
+**Bayesian deep learning:** Employ synergy of Bayesian inference with Markov Chain Monti Carlo (MCMC) methods to address uncertainty quantification in emerging deep learning methods. Collaborators: Prof. Sally Cripps, Centre for Translational Data Science.
 
- **Solid Earth evolution:**  The solid Earth evolution project considers Bayesian inference and machine learning for  landscape dynamics (BayesLands) **Collaborators:** Prof. Dietmar Muller and Dr. Tristan Salles, School of Geosciences 
+**Solid Earth evolution:** The solid Earth evolution project considers Bayesian inference and machine learning for landscape dynamics (BayesLands). Collaborators: Prof. Dietmar Muller and Dr. Tristan Salles, School of Geosciences. Prof. Sally Cripps, Centre for Translational Data Science.
 
-**Reef Modelling** Provide uncertainity quantification using  Bayesian inference for  reef modelling  (BayesReef)  **Collaborators:**  A/Prof. Jody Webster and Dr. Tristan Salles, School of Geosciences 
+**Reef Modelling:** Provide uncertainty quantification using Bayesian inference for reef modelling (BayesReef). Collaborators: A/Prof. Jody Webster and Dr. Tristan Salles, School of Geosciences. Prof. Sally Cripps, Centre for Translational Data Science.
 
- **Computational models of machine consciouness:** Develop computational models of machine consiounesness that simulate aspects such as personality, affection and reasoning. 
+**Machine consciousness:** Develop computational models of machine consciousness that simulate aspects such as personality, affection, and reasoning.
+
+ 
+
+ 
   
 **Open Research Opportunities**
  
