@@ -42,7 +42,7 @@ Dr. Rohitash Chandra is UniSyd Fellow at the Centre for Translational Data Scien
  1.  "Dynamic Earth models, landscape dynamics and basin evolution", Co-supervised with Prof. Dietmar Muller, School of Geosciences [More details here:](http://sydney.edu.au/research/opportunities/opportunities/2254)
  2. "Spatio-temporal geodata mining",Co-supervised with Prof. Dietmar Muller, School of Geosciences [More details here:](https://sydney.edu.au/research/opportunities/opportunities/1829)
  3. "Bayesian deep learning for incomplete information, " Co-supervised with  Prof. Sally Cripps, School of Mathematics and Statistics [Mode details here:](https://sydney.edu.au/research/opportunities/opportunities/2301)
- 4. “Machine learning for Reef Modelling and Optimisation, “ Co-supervised with Prof. Jody Webster, School of Geosciences [More information:]()
+ 4. “Machine learning for Reef Modelling and Optimisation, “ Co-supervised with Prof. Jody Webster, School of Geosciences [More information:](http://agile-prod.ucc.usyd.edu.au/research/opportunities/opportunities/show/2319)
  
  **Past Research Students and Thesis**
  
