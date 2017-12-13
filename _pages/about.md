@@ -54,6 +54,10 @@ Prediction", Master of Science in Computing Science, University of the South Pac
 5. Shamina Hussein, " ", Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, 2015 [Download thesis from USP Library]( ) (Thesis to be uploaded later)
 6. Swaran Ravindra, " ",Master of Science in Information Systems,  University of the South Pacific, Suva, Fiji, 2015 [Download thesis from USP Library]( ) (Thesis to be uploaded later)
 7. Ratneel Deo, " ", Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, December 2017 [Download thesis from USP Library]( ) (Thesis to be uploaded later)
+
+**Open Research Projects**
+
+[Details for Open Research Projects](https://github.com/rohitash-chandra/rohitash-chandra.github.io/blob/master/_pages/openresearchprojects.md)
  
  **Contact Information**
  
