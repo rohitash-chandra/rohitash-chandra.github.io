@@ -14,4 +14,18 @@
 
 * Face Recoginition for Authentication  via Multi-task learning (Use Videos and Sound)
 
+**Bayesian Deep Learning**
+
+* Robust Bayesian Neural Networks for Dynamic Time Series Prediction
+* Autonoumous feature ranking and learning for modular pattern classifiation via Bayesian Neural Networks
+
+
+
+**Applications**
+
+* Cyclone Track Prediction
+* Reef Modelling
+* Solid Earth Evolution
+* Mineral Exploration 
+
 
