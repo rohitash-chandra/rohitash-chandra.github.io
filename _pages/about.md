@@ -57,7 +57,7 @@ Prediction", Master of Science in Computing Science, University of the South Pac
 
 **Open Research Projects**
 
-[Details for Open Research Projects](/_pages/openresearchprojects.md)Project ideas
+[Open Research Projects](https://github.com/rohitash-chandra/rohitash-chandra.github.io/blob/master/_pages/openresearchprojects.md) (Email to check which ones are open for collaboration)
  
  **Contact Information**
  
