@@ -1,3 +1,15 @@
+
+---
+permalink: /
+title: "Research Spotlight"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+ 
+
 **2018 Project ideas**
 
 **Bayesian inference via MCMC and Evolutionary Algorithms**
