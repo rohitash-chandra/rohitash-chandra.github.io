@@ -22,7 +22,7 @@ Collaborators: Prof. Dietmar Muller and Dr. Tristan Salles, School of Geoscience
 **Reef modelling:** We provide uncertainty quantification estimation of free parameters using Bayesian inference for reef modelling (BayesReef). 
 Collaborators: A/Prof. Jody Webster and Dr. Tristan Salles, School of Geosciences; Prof. Sally Cripps, Centre for Translational Data Science.
 
-**Mineral exploration:** We use sysnergy of machine learning, geo-physical forward models, and Bayesian inference for robust location of sites for mineraral prospecting and exploration.
+**Mineral exploration:**  We provide a synergy of machine learning, geo-physical forward models, and Bayesian inference for the robust location of sites for mineral prospecting and exploration. 
 Collaborators: Prof. Chris Clark, Dr. Hugo Olierook (Curtin University); Prof. Sally Cripps, Centre for Translational Data Science;   Prof. Dietmar Muller, School of Geosciences
 
 **Machine consciousness:** Develop computational models of machine consciousness that simulate aspects such as personality, affection, and reasoning.
