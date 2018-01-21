@@ -19,11 +19,21 @@ Collaborators: Prof. Sally Cripps, Centre for Translational Data Science; Prof. 
 **Solid Earth evolution:** The solid Earth evolution project considers Bayesian inference and machine learning for landscape dynamics model (BayesLands). 
 Collaborators: Prof. Dietmar Muller and Dr. Tristan Salles, School of Geosciences; Prof. Sally Cripps, Centre for Translational Data Science.
 
-**Reef modelling:** We provide uncertainty quantification estimation of free parameters using Bayesian inference for reef modelling (BayesReef). 
+**Reef modelling:** We provide uncertainty quantification estimation of free parameters using Bayesian inference for reef modelling (BayesReef). The objectives is  to gain 
+insights into the flux of carbon by analysing carbonate platform growth and 
+demise through time, and modelling their evolution using  lanscape dynamics and 
+reef modelling Python packages  (Badlands  and pyRee). Bayesian  and machine 
+learning methods will be used  in conjunction with landscape and reef models to 
+predict the future evolution of landscape and reef systems around the world and 
+their impact on the carbon cycle.
+
 Collaborators: A/Prof. Jody Webster and Dr. Tristan Salles, School of Geosciences; Prof. Sally Cripps, Centre for Translational Data Science.
 
 **Mineral exploration:**  We provide a synergy of machine learning, geo-physical forward models, and Bayesian inference for the robust location of sites for mineral prospecting and exploration. 
 Collaborators: Prof. Chris Clark, Dr. Hugo Olierook (Curtin University); Prof. Sally Cripps, Centre for Translational Data Science;   Prof. Dietmar Muller, School of Geosciences
+
+
+**Paleo-climate:** The objective is to develop models that can describe the climate of the past that range for millions of years. Collaborators: Prof. Dietmar Muller, School of Geosciences; Prof. Sally Cripps, Centre for Translational Data Science.
 
 **Machine consciousness:** Develop computational models of machine consciousness that simulate aspects such as personality, affection, and reasoning.
 
