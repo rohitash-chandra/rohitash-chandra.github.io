@@ -13,10 +13,10 @@ Dr. Rohitash Chandra is UniSyd Fellow at the Centre for Translational Data Scien
 
 **Current Research Projects**
 
-**Bayesian deep learning for uncertain environments:** Develop novel learning algorithms for robust decision making given misinformation and uncertainty from the environment. This provides a synergy of neural networks with modular, multi-task and transfer learning. Applications in dynamic and uncertain environments includes time series and pattern classification. We employ synergy of Bayesian inference with Markov Chain Monti Carlo (MCMC) methods to address uncertainty quantification in emerging deep learning methods. 
+**Bayesian deep learning for uncertain environments:**   We develop novel learning algorithms for robust decision making given misinformation and uncertainty from the environment. This provides a synergy of neural networks with modular, multi-task and transfer learning.  We employ   Bayesian methods to address uncertainty quantification in emerging deep learning methods. 
 Collaborators: Prof. Sally Cripps, Centre for Translational Data Science; Prof. Junbin Gao, USyd Business School.
 
-**Solid Earth evolution:** The solid Earth evolution project considers Bayesian inference and machine learning for landscape dynamics (BayesLands). 
+**Solid Earth evolution:** The solid Earth evolution project considers Bayesian inference and machine learning for landscape dynamics model (BayesLands). 
 Collaborators: Prof. Dietmar Muller and Dr. Tristan Salles, School of Geosciences; Prof. Sally Cripps, Centre for Translational Data Science.
 
 **Reef modelling:** We provide uncertainty quantification estimation of free parameters using Bayesian inference for reef modelling (BayesReef). 
