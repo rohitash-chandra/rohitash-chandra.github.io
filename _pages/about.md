@@ -13,13 +13,17 @@ Dr. Rohitash Chandra is UniSyd Fellow at the Centre for Translational Data Scien
 
 **Current Research Projects**
 
-**Robust deep learning for uncertain environments:** Develop novel learning algorithms for robust decision making given misinformation and uncertainty from the environment. This provides a synergy of neural networks with modular, multi-task and transfer learning. Applications in dynamic and uncertain environments includes time series and pattern classification.
+**Bayesian deep learning for uncertain environments:** Develop novel learning algorithms for robust decision making given misinformation and uncertainty from the environment. This provides a synergy of neural networks with modular, multi-task and transfer learning. Applications in dynamic and uncertain environments includes time series and pattern classification. We employ synergy of Bayesian inference with Markov Chain Monti Carlo (MCMC) methods to address uncertainty quantification in emerging deep learning methods. 
+Collaborators: Prof. Sally Cripps, Centre for Translational Data Science; Prof. Junbin Gao, USyd Business School.
 
-**Bayesian deep learning:** Employ synergy of Bayesian inference with Markov Chain Monti Carlo (MCMC) methods to address uncertainty quantification in emerging deep learning methods. Collaborators: Prof. Sally Cripps, Centre for Translational Data Science.
+**Solid Earth evolution:** The solid Earth evolution project considers Bayesian inference and machine learning for landscape dynamics (BayesLands). 
+Collaborators: Prof. Dietmar Muller and Dr. Tristan Salles, School of Geosciences; Prof. Sally Cripps, Centre for Translational Data Science.
 
-**Solid Earth evolution:** The solid Earth evolution project considers Bayesian inference and machine learning for landscape dynamics (BayesLands). Collaborators: Prof. Dietmar Muller and Dr. Tristan Salles, School of Geosciences. Prof. Sally Cripps, Centre for Translational Data Science.
+**Reef modelling:** We provide uncertainty quantification estimation of free parameters using Bayesian inference for reef modelling (BayesReef). 
+Collaborators: A/Prof. Jody Webster and Dr. Tristan Salles, School of Geosciences; Prof. Sally Cripps, Centre for Translational Data Science.
 
-**Reef Modelling:** Provide uncertainty quantification using Bayesian inference for reef modelling (BayesReef). Collaborators: A/Prof. Jody Webster and Dr. Tristan Salles, School of Geosciences. Prof. Sally Cripps, Centre for Translational Data Science.
+**Mineral exploration:** We use sysnergy of machine learning, geo-physical forward models, and Bayesian inference for robust location of sites for mineraral prospecting and exploration.
+Collaborators: Prof. Chris Clark, Dr. Hugo Olierook (Curtin University); Prof. Sally Cripps, Centre for Translational Data Science;   Prof. Dietmar Muller, School of Geosciences
 
 **Machine consciousness:** Develop computational models of machine consciousness that simulate aspects such as personality, affection, and reasoning.
 
