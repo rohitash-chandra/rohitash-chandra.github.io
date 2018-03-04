@@ -9,7 +9,7 @@ redirect_from:
 ---
  
 
-Dr. Rohitash Chandra is UniSyd Fellow at the Centre for Translational Data Science. He is also affiliated with the Discipline of Business Analytics, School of Business. His research interests are in areas of deep learning, recurrent neural networks, neuroevolution, time series analysis, and Bayesian methods. He is developing novel learning algorithms for robust and dynamic decision making given misinformation and uncertainty from the environment. This provides a synergy of deep learning methods with Bayesian inference, multi-task and transfer learning. Applications include climate extremes, solid Earth evolution, and geo-coastal modelling. Currently, he is involved in projects that use Bayesian inference for solid Earth evolution and reef modelling. He is also interested in developing learning algorithms to simulate aspects of consciousness that include personality and attention.
+Dr. Rohitash Chandra is UniSyd Fellow at the Centre for Translational Data Science and School of Geosciences at the University of Sydney. His research interests are in areas of deep learning, neuro-evolution, Bayesian methods, solid Earth Evolution, reef modelling and mineral exploration. Currently he is developing novel learning algorithms for robust and dynamic decision making given misinformation and uncertainty from the environment. This provides a synergy of deep learning methods with Bayesian inference, and multi-task  learning.  Currently, he is involved in projects that employ machine learning methods and Bayesian inference via  parallel tempering for solid Earth evolution, mineral exploration, and reef modelling.   
 
 **Current Research Projects**
 
@@ -57,6 +57,17 @@ Collaborators: Prof. Chris Clark, Dr. Hugo Olierook (Curtin University); Prof. S
  2. "Spatio-temporal geodata mining",Co-supervised with Prof. Dietmar Muller, School of Geosciences [More details here:](https://sydney.edu.au/research/opportunities/opportunities/1829)
  3. "Bayesian deep learning for incomplete information, " Co-supervised with  Prof. Sally Cripps, School of Mathematics and Statistics [Mode details here:](https://sydney.edu.au/research/opportunities/opportunities/2301)
  4. “Machine learning for Reef Modelling and Optimisation, “ Co-supervised with Prof. Jody Webster, School of Geosciences [More information:](http://agile-prod.ucc.usyd.edu.au/research/opportunities/opportunities/show/2319)
+ 
+ 
+ 
+ **Active Research Students**
+ 
+ 1. Ehsan Farahbakhsh, "Machine learning methods for mineral prospecting", Ph.D, Tehran Polytechnic, Tehran (External Supervisor)
+ 
+ 2. Gary Wong, "Novel methods for neuro-evolution", University of the South Pacific, Suva, Fiji, MSc. Computer Sc. (External Supervisor)
+ 
+ 3. Ratneel Deo, "Bayesian inference and machine learning methods for modelling great barrier reef", preparing for Ph.D. 
+ 
  
  **Past Research Students and Thesis**
  
