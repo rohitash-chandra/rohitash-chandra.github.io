@@ -9,7 +9,7 @@ redirect_from:
 ---
  
 
-Dr. Rohitash Chandra is UniSyd Fellow at the Centre for Translational Data Science and School of Geosciences at the University of Sydney. His research interests are in areas of deep learning, neuro-evolution, Bayesian methods, solid Earth Evolution, reef modelling and mineral exploration. Currently he is developing novel learning algorithms for robust and dynamic decision making given misinformation and uncertainty from the environment. This provides a synergy of deep learning methods with Bayesian inference, and multi-task  learning.  Furthermore, he is involved in projects that employ machine learning methods and Bayesian inference via  parallel tempering for solid Earth evolution, mineral exploration, and reef modelling.   
+Dr. Rohitash Chandra is USyd Research Fellow at the Centre for Translational Data Science and School of Geosciences at the University of Sydney. His research interests are in areas of deep learning, neuro-evolution, Bayesian methods, solid Earth Evolution, reef modelling and mineral exploration. Currently he is developing novel learning algorithms for robust and dynamic decision making given misinformation and uncertainty from the environment. This provides a synergy of deep learning methods with Bayesian inference, and multi-task  learning.  Furthermore, he is involved in projects that employ machine learning methods and Bayesian inference via  parallel tempering for solid Earth evolution, mineral exploration, and reef modelling.   
 
 **Current Research Projects**
 
