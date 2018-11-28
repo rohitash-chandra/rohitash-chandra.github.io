@@ -36,10 +36,7 @@ Dr. Rohitash Chandra is USyd Research Fellow at the Centre for Translational Dat
  
   
 **Open Research Opportunities**
- 
- **Summer of Research Internship** 
- Students are given 12 weeks of research allowance to work in a selected field in Statistical machine learning and deep learning. Students will be based at the Centre for Translational Data Science, The University of Sydney. [More details here:](https://github.com/rohitash-chandra/rohitash-chandra.github.io/blob/master/files/SummerResearch.pdf)
- 
+  
  
  **Honours Research Projects**  
  1.  "Climate precipitation in geological timeframe", Co-supervised  with  Prof. Dietmar Muller, School of Geosciences 
