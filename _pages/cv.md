@@ -15,7 +15,7 @@ Academic positions
 * January 2020 to present: Senior Lecturer in Data Science
 	* School of Mathematics and Statistics, UNSW Sydney
 	* Teaching Master of Data Science - Data Mining and Machine Learning course (August - October 2020)
-	* Research in Bayesian inference and deep learning, Mineral exploration using machine learning, Climate data science, Reef evolution modelling, Landscape evolution models
+	* Research in Bayesian inference and deep learning, mineral exploration using machine learning, climate data science, reef evolution modelling, landscape evolution models
 
 * March 2017 to January 2020: Chancellor's (Sydney) Research Fellow
   * Centre for Translational Data Science, The University of Sydney
@@ -27,9 +27,9 @@ Academic positions
   * Duties included: Research in machine learning and Jet engine design 
 
 
-* December 2012 to January 2016: Lecture in Computer Science
+* December 2012 to January 2016: Lecturer in Computer Science
   * University of the South Pacific 
-  * Duties included: Research in machine learning and teaching courses; 1. Data Structures and Algorithms, Design and Analysis of Algorithms, Internet Computing, Operating Systems, Mobile Computing
+  * Duties included: Research in machine learning, and teaching: 1. CS 112 Data Structures and Algorithms, CS214 Design and Analysis of Algorithms, CS424 Internet Computing, CS311 Operating Systems, CS4xx Mobile Computing
 
 
 
