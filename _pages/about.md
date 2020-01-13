@@ -9,7 +9,7 @@ redirect_from:
 ---
  
 
-Dr. Rohitash Chandra is USyd Research Fellow at the Centre for Translational Data Science and School of Geosciences at the University of Sydney. His research interests are in areas of deep learning, neuro-evolution, Bayesian methods, solid Earth Evolution, reef modelling and mineral exploration. Currently he is developing novel learning algorithms for robust and dynamic decision making given misinformation and uncertainty from the environment. This provides a synergy of deep learning methods with Bayesian inference, and multi-task  learning.  Furthermore, he is involved in projects that employ machine learning methods and Bayesian inference via  parallel tempering for solid Earth evolution, mineral exploration, and reef modelling.   
+Dr. Rohitash Chandra is a Senior Lecturer in Data Science  at School of Mathematics and Statistics,  UNSW Sydney. His research interests are in areas of deep learning, neuro-evolution, Bayesian methods, solid Earth Evolution, reef modelling and mineral exploration.   
 
 **Current Research Projects** 
 
@@ -43,6 +43,8 @@ Dr. Rohitash Chandra is USyd Research Fellow at the Centre for Translational Dat
  2. "Uncertainty quantification for solid Earth models (Badlands), " Co-supervised with  Prof. Dietmar Muller, School of Geosciences 
  
  **Ph.D Open Projects**
+
+ (in collabortion with University of Sydney)
  
  1.  "Dynamic Earth models, landscape dynamics and basin evolution", Co-supervised with Prof. Dietmar Muller, School of Geosciences [More details here:](http://sydney.edu.au/research/opportunities/opportunities/2254)
  2. "Spatio-temporal geodata mining",Co-supervised with Prof. Dietmar Muller, School of Geosciences [More details here:](https://sydney.edu.au/research/opportunities/opportunities/1829)
@@ -77,11 +79,8 @@ Prediction", Master of Science in Computing Science, University of the South Pac
  
  **Contact Information**
  
- rohitash.chandra (at) sydney.edu.au or c.rohitash (at) gmail.com
- 
- University of Sydney: [Research Supervisor Connect](https://sydney.edu.au/research/opportunities/supervisors/1886)
- 
- 
+ rohitash.chandra (at) unsw.edu.au or c.rohitash (at) gmail.com
+  
  
   
  
