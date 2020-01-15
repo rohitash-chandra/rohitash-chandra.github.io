@@ -5,7 +5,7 @@ locale                   : "en-US"
 title                    : "Research Profile"
 title_separator          : "-"
 name                     : &name "Rohitash Chandra"
-description              : &description "Research in Machine Learning and Optimisation"
+description              : &description "Research in Machine Learning and Data Science"
 url                      : https://rohitash-chandra.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/rohitash-chandra"
@@ -75,16 +75,16 @@ analytics:
 author:
   name             : "Rohitash Chandra"
   avatar           : "rohitash_profile.jpg"
-  bio              : "Chancellor's Fellow at the University of Sydney" 
-  employer         : "The University of Sydney"
+  bio              : "Senior Lecturer in Data Science" 
+  employer         : "UNSW Sydney"
   googlescholar    : "https://scholar.google.com.au/citations?user=pVPvRLoAAAAJ&hl=en"
-  email            : "rohitash.chandra (at) sydney.edu.au"
+  email            : "rohitash.chandra (at) unsw.edu.au"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "beingathome2012"
+  facebook         : "rohitashchandrapoetry"
   foursquare       :
   github           : "rohitash-chandra"
   google_plus      :
