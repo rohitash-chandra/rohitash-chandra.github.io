@@ -53,7 +53,7 @@ Dr. Rohitash Chandra is a Senior Lecturer in Data Science  at School of Mathemat
  
  
  
- **Active Research Students**
+ **Active Higher Degree  Research Students**
  
  1. Ehsan Farahbakhsh, "Machine learning methods for mineral prospecting", Ph.D, Tehran Polytechnic, Tehran (External Supervisor)
  
@@ -62,16 +62,17 @@ Dr. Rohitash Chandra is a Senior Lecturer in Data Science  at School of Mathemat
  3. Ratneel Deo, "Bayesian inference and machine learning methods for modelling great barrier reef", preparing for Ph.D. 
  
  
- **Past Research Students and Thesis**
+ **Past Higher Degree Research Students**
  
  1. Shelvin Chand, "Multi-Objective Cooperative Neuro-Evolution for Chaotic Time Series
-Prediction", Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, August 2014 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH0101.dir/doc.pdf) (Awarded PhD Scholarship at UNSW Australia, 2015)
-2. Shonal Chaudhary, "Mobile Based Face Recognition for Visually Impaired Persons", Master of Science in Computing Science,  University of the South Pacific, Suva, Fiji, August 2015 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH9f3a.dir/doc.pdf)
-3. Kavitesh Bali, "Competitive Island Cooperative Coevolution for Real Parameter Global Optimization", Master of Science in Computing Science,  University of the South Pacific, Suva, Fiji, September 2015 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASHbe1b.dir/doc.pdf) (Awarded PhD Scholarship at Nanyang Technological University - Singapore, 2016) (Awarded Gold Medal for Best MSc Thesis at USP)
-4. Ravneil Nand, "Competitive Island Cooperative Neuro-Evolution for Time Series Prediction", Master of Science in Computing Science,  University of the South Pacific, Suva, Fiji, January 2016 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASHdef0.dir/doc.pdf)
-5. Shamina Hussein, " ", Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, 2015 [Download thesis from USP Library]( ) (Thesis to be uploaded later)
-6. Swaran Ravindra, " ",Master of Science in Information Systems,  University of the South Pacific, Suva, Fiji, 2015 [Download thesis from USP Library]( ) (Thesis to be uploaded later)
-7. Ratneel Deo, " ", Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, December 2017 [Download thesis from USP Library]( ) (Thesis to be uploaded later)
+Prediction", Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, August 2014 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH0101.dir/doc.pdf) (Awarded PhD Scholarship at UNSW Australia, 2015) (Primary Supervsior)
+2. Shonal Chaudhary, "Mobile Based Face Recognition for Visually Impaired Persons", Master of Science in Computing Science,  University of the South Pacific, Suva, Fiji, August 2015 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH9f3a.dir/doc.pdf)  (Primary Supervsior)
+3. Kavitesh Bali, "Competitive Island Cooperative Coevolution for Real Parameter Global Optimization", Master of Science in Computing Science,  University of the South Pacific, Suva, Fiji, September 2015 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASHbe1b.dir/doc.pdf) (Awarded PhD Scholarship at Nanyang Technological University - Singapore, 2016) (Awarded Gold Medal for Best MSc Thesis at USP)  (Primary Supervsior)
+4. Ravneil Nand, "Competitive Island Cooperative Neuro-Evolution for Time Series Prediction", Master of Science in Computing Science,  University of the South Pacific, Suva, Fiji, January 2016 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASHdef0.dir/doc.pdf)  (Primary Supervsior)
+5. Shamina Hussein, "Multi-step ahead prediction using Recurrent Neural Networks", Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, 2015 [Download thesis from USP Library]( ) (Thttp://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH3a34.dir/doc.pdf)  (Primary Supervsior - External Supervisor)
+6. Ratneel Deo, "Cyclone Prediction using Coevolutionary Recurrent Neural Networks", Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, December 2017 [Download thesis from USP Library]( ) (https://www.researchgate.net/publication/323656742_Neural_network_methodologies_for_cyclone_wind_intensity_and_path_prediction) (Primary Supervsior - External Supervisor)
+7. Swaran Ravindra, "Health Information Systems in Fijian Hospitals",Master of Science in Information Systems,  University of the South Pacific, Suva, Fiji, 2015 [Download thesis from USP Library]( ) (Thesis to be uploaded later) (Primary Supervsior)
+8. Jodie Pall, " Bayesreef: Reef evolution using Bayesian inference", Honours Thesis, School of Geosciences, University of Sydney, Australia 2018, (Thesis to be uploaded later) (Recieved University Medal) (Auxilliary Supervisor)
 
 **Open Research Projects**
 
