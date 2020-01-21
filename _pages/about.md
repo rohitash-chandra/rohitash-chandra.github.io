@@ -72,7 +72,7 @@ Prediction", Master of Science in Computing Science, University of the South Pac
 5. Shamina Hussein, "Multi-step ahead prediction using Recurrent Neural Networks", Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, 2015 [Download thesis from USP Library]( ) (Thttp://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH3a34.dir/doc.pdf)  (Primary Supervsior - External Supervisor)
 6. Ratneel Deo, "Cyclone Prediction using Coevolutionary Recurrent Neural Networks", Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, December 2017 [Download thesis from USP Library]( ) (https://www.researchgate.net/publication/323656742_Neural_network_methodologies_for_cyclone_wind_intensity_and_path_prediction) (Primary Supervsior - External Supervisor)
 7. Swaran Ravindra, "Health Information Systems in Fijian Hospitals",Master of Science in Information Systems,  University of the South Pacific, Suva, Fiji, 2015 [Download thesis from USP Library]( ) (Thesis to be uploaded later) (Primary Supervsior)
-8. Jodie Pall, " Bayesreef: Reef evolution using Bayesian inference", Honours Thesis, School of Geosciences, University of Sydney, Australia 2018, (Thesis to be uploaded later) (Recieved University Medal) (Auxilliary Supervisor)
+8. Jodie Pall, " Bayesreef: Reef evolution using Bayesian inference", Honours Thesis, School of Geosciences, University of Sydney, Australia 2018, (Thesis to be uploaded later) (Recieved University Medal) (Secondary Supervisor)
 
 **Open Research Projects**
 
