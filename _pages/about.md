@@ -9,7 +9,12 @@ redirect_from:
 ---
  
 
-Dr. Rohitash Chandra is a Senior Lecturer in Data Science  at School of Mathematics and Statistics,  UNSW Sydney. His research interests are in areas of deep learning, neuro-evolution, Bayesian inference (MCMCs), landscape evolution models, reef modelling and mineral exploration.   
+Dr. Rohitash Chandra is a Senior Lecturer in Data Science  at School of Mathematics and Statistics,  UNSW Sydney. His research interests are in areas of deep learning, neuro-evolution, Bayesian inference (MCMCs), landscape evolution models, reef modelling and mineral exploration.  
+
+**Research Paper**
+
+1. [Access research papers](https://github.com/rohitash-chandra/research) 
+2. [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=pVPvRLoAAAAJ)
 
 **Current Research Projects** 
 
@@ -42,36 +47,41 @@ Dr. Rohitash Chandra is a Senior Lecturer in Data Science  at School of Mathemat
  1.  "Climate precipitation in geological timeframe", Co-supervised  with  Prof. Dietmar Muller, School of Geosciences 
  2. "Uncertainty quantification for solid Earth models (Badlands), " Co-supervised with  Prof. Dietmar Muller, School of Geosciences 
  
- **Ph.D Open Projects**
+ **Ph.D/Masters Open Projects**
 
- (in collabortion with University of Sydney)
+  
+1. Bayesian deep learning for protein function detection (PhD), Co-supervised by Prof. Alok Sharma
+2. Bayesian inference for MoRFs and protein-peptide interactions (PhD), Co-supervised by Prof. Alok Sharma
+3. Cyclone path and intensity prediction with deep insight based deep learning (Masters/Honours), Co-supervised by Prof. Alok Sharma
+4. Indoor path navigation for disabled persons in large buildings (Masters/Honours) 
+5. Detection of electric cable hazards from Cyclones using a combination of drones with remote sensing and deep learning (Masters/Honours) 
+6. Geo-tagging plastic pollution in coastlines using drones and remote sensing (Masters/Honours)
+7. Dynamic Earth models, landscape dynamics and basin evolution (PhD), Co-supervised by Prof. Dietmar Muller  More details
+8. Machine learning for Reef Modelling and Optimisation, Co-supervised by Prof. Jody Webster More information
+9. Deep learning for the reconstruction of 3D Ore-bodies, Co-supervised by  Ehsan Farahbakhsh
+10.[More infor](https://github.com/rohitash-chandra/research/blob/master/openresearchprojects/ResearchProjects2020UNSW-RIKEN.pdf)
  
- 1.  "Dynamic Earth models, landscape dynamics and basin evolution", Co-supervised with Prof. Dietmar Muller, School of Geosciences [More details here:](http://sydney.edu.au/research/opportunities/opportunities/2254)
- 2. "Spatio-temporal geodata mining",Co-supervised with Prof. Dietmar Muller, School of Geosciences [More details here:](https://sydney.edu.au/research/opportunities/opportunities/1829)
- 3. "Bayesian deep learning for incomplete information, " Co-supervised with  Prof. Sally Cripps, School of Mathematics and Statistics [Mode details here:](https://sydney.edu.au/research/opportunities/opportunities/2301)
- 4. “Machine learning for Reef Modelling and Optimisation, “ Co-supervised with Prof. Jody Webster, School of Geosciences [More information:](http://agile-prod.ucc.usyd.edu.au/research/opportunities/opportunities/show/2319)
  
  
  
  **Active Higher Degree  Research Students**
  
- 1. Ehsan Farahbakhsh, "Machine learning methods for mineral prospecting", Ph.D, Tehran Polytechnic, Tehran (External Supervisor)
- 
- 2. Gary Wong, "Novel methods for neuro-evolution", University of the South Pacific, Suva, Fiji, MSc. Computer Sc. (External Supervisor)
- 
- 3. Ratneel Deo, "Bayesian inference and machine learning methods for modelling great barrier reef", preparing for Ph.D. 
+1. Ehsan Farahbakhsh, “Machine learning for mineral prospecting”, PhD, Tehran Polytechnic, Tehran (External Supervisor, 2017 - 2020)
+2. Julian Rodriguez, "Machine learning for spatial-temporal mineral prospecting using plate tectonic models, MPhil, University of Sydney (External Supervisor, 2019-2020)
+3. Ravinesh Deo, "Bayesian neural learning for rainfall prediction in Fiji", MSc, University of the South Pacific  (External Supervisor, 2020)
+4. Yixuan He, "Bayesian neural learning for  financial prediction", Master of Financial Mathematics, UNSW School of Mathematics and Statistics (Principal Supervisor, 2020)
  
  
  **Past Higher Degree Research Students**
  
  1. Shelvin Chand, "Multi-Objective Cooperative Neuro-Evolution for Chaotic Time Series
-Prediction", Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, August 2014 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH0101.dir/doc.pdf) (Awarded PhD Scholarship at UNSW Australia, 2015) (Primary Supervsior)
-2. Shonal Chaudhary, "Mobile Based Face Recognition for Visually Impaired Persons", Master of Science in Computing Science,  University of the South Pacific, Suva, Fiji, August 2015 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH9f3a.dir/doc.pdf)  (Primary Supervsior)
-3. Kavitesh Bali, "Competitive Island Cooperative Coevolution for Real Parameter Global Optimization", Master of Science in Computing Science,  University of the South Pacific, Suva, Fiji, September 2015 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASHbe1b.dir/doc.pdf) (Awarded PhD Scholarship at Nanyang Technological University - Singapore, 2016) (Awarded Gold Medal for Best MSc Thesis at USP)  (Primary Supervsior)
-4. Ravneil Nand, "Competitive Island Cooperative Neuro-Evolution for Time Series Prediction", Master of Science in Computing Science,  University of the South Pacific, Suva, Fiji, January 2016 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASHdef0.dir/doc.pdf)  (Primary Supervsior)
-5. Shamina Hussein, "Multi-step ahead prediction using Recurrent Neural Networks", Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, 2015 [Download thesis from USP Library](Thttp://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH3a34.dir/doc.pdf)  (Primary Supervsior - External Supervisor)
-6. Ratneel Deo, "Neural network methodologies for cyclone wind intensity and path prediction", Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, December 2017 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH012b/499d1bce.dir/doc.pdf) (Primary Supervsior - External Supervisor)
-7. Swaran Ravindra, "Health Information Systems in Fijian Hospitals",Master of Science in Information Systems,  University of the South Pacific, Suva, Fiji, 2015 [Download thesis from USP Library](Thesis to be uploaded later) (Primary Supervsior)
+Prediction", Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, August 2014 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH0101.dir/doc.pdf) (Awarded PhD Scholarship at UNSW Australia, 2015) (Primary Supervisor)
+2. Shonal Chaudhary, "Mobile Based Face Recognition for Visually Impaired Persons", Master of Science in Computing Science,  University of the South Pacific, Suva, Fiji, August 2015 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH9f3a.dir/doc.pdf)  (Primary Supervisor)
+3. Kavitesh Bali, "Competitive Island Cooperative Coevolution for Real Parameter Global Optimization", Master of Science in Computing Science,  University of the South Pacific, Suva, Fiji, September 2015 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASHbe1b.dir/doc.pdf) (Awarded PhD Scholarship at Nanyang Technological University - Singapore, 2016) (Awarded Gold Medal for Best MSc Thesis at USP)  (Primary Supervisor)
+4. Ravneil Nand, "Competitive Island Cooperative Neuro-Evolution for Time Series Prediction", Master of Science in Computing Science,  University of the South Pacific, Suva, Fiji, January 2016 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASHdef0.dir/doc.pdf)  (Primary Supervisor)
+5. Shamina Hussein, "Multi-step ahead prediction using Recurrent Neural Networks", Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, 2015 [Download thesis from USP Library](Thttp://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH3a34.dir/doc.pdf)  (Primary Supervisor - External Supervisor)
+6. Ratneel Deo, "Neural network methodologies for cyclone wind intensity and path prediction", Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, December 2017 [Download thesis from USP Library](http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH012b/499d1bce.dir/doc.pdf) (Primary Supervisor - External Supervisor) (Nominated for Best Thesis - Gold Medal)
+7. Swaran Ravindra, "Health Information Systems in Fijian Hospitals",Master of Science in Information Systems (Minor Thesis),  University of the South Pacific, Suva, Fiji, 2015 [Download thesis from USP Library](Thesis to be uploaded later) (Primary Supervisor)
 8. Jodie Pall, " Bayesreef: Reef evolution using Bayesian inference", Honours Thesis, School of Geosciences, University of Sydney, Australia 2018, [Thesis to be linked later]()(Recieved University Medal) (Secondary Supervisor)
 
 **Open Research Projects**
