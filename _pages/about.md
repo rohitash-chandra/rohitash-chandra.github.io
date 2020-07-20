@@ -9,7 +9,7 @@ redirect_from:
 ---
  
 
-Dr. Rohitash Chandra is a Senior Lecturer in Data Science  at School of Mathematics and Statistics,  UNSW Sydney. His research interests are in areas of deep learning, neuro-evolution, Bayesian inference (MCMCs), landscape evolution models, reef modelling and mineral exploration.  
+Dr. Rohitash Chandra is a Senior Lecturer in Data Science  at School of Mathematics and Statistics,  UNSW Sydney. His research interests are in areas of deep learning, neuro-evolution, Bayesian inference (MCMCs), landscape evolution models, reef modelling and mineral exploration.  [More information at UNSW profile](https://research.unsw.edu.au/people/dr-rohitash-chandra)
 
 **Research Paper**
 
