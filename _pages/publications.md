@@ -10,6 +10,7 @@ author_profile: true
   2. [Google Scholar Profile](https://scholar.google.com.au/citations?user=pVPvRLoAAAAJ&hl=en)
   3. [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=35106707300)
   4. [ResearchGate Profile](https://www.researchgate.net/profile/Rohitash_Chandra) 
+  5. [UNSW Research Profile](https://research.unsw.edu.au/people/dr-rohitash-chandra/publications)
  
  
 ### Publications 
