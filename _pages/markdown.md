@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 ## Poetry Collections
-* R. Chandra, The Colourful Silence of your Being (To be published end of 2018) [Draft poems and notes on Facebook page](https://www.facebook.com/beingathome2012/)
+* R. Chandra, The Silence Within (Draft 1 - 2025) [Download](https://github.com/rohitash-chandra/rohitash-chandra.github.io/tree/master/_publications/poetryphilosophy/books/silencewithin2025)
+
 * R. Chandra, "Being at Home: Poetry, Philosophy and Expressions," Software Foundation Press, Fiji, 2014.  [Download](https://github.com/rohitash-chandra/poetry-philosophy/blob/master/BeingatHome_RohitashChandra.pdf) [ Purchase printed copy from Amazon.com](https://www.amazon.com/Being-at-Home-Rohitash-Chandra/dp/1312170557/)
 * R. Chandra, "Hot Pot of Roasted Poems," Blue Fog Journal, Fiji, 2007 (download) [ Purchase printed copy from Amazon.com](https://www.amazon.com/Hot-Pot-Roasted-Poems/dp/184728891X/ref=sr_1_2?s=books&ie=UTF8&qid=1505176256&sr=1-2)
 
